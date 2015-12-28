@@ -1,6 +1,6 @@
 title: 使用Hexo搭建GitHub Pages
 date: 2015-12-24 10:25:07
-tags: [Hexo, Git Page]
+tags: [Git Page, Hexo]
 categories: 安装配置篇
 original: false
 ---
@@ -8,21 +8,21 @@ original: false
 
 <!-- more -->
 ## 创建Github Repo
-### 1. 登录GitHub账号，点击New repository
+### 登录GitHub账号，点击New repository
 ![GitHub首页][1]
-### 2. 填写Repo信息，创建Repo
+### 填写Repo信息，创建Repo
 > Repo的名称必须为{github账号名称}.github.com，填好名称后(我已经创建过该名称的repo，故出现红色提示，不用管)，点击下面的绿色按钮'Create repository'
 
 ![创建GitHub Repo][2]
-### 3. 使用GitHub页面生成器
+### 使用GitHub页面生成器
 > 选择 'Settings' Tab，点击'Launch automatic page generator'按钮
 
 ![Launch automatic page generator][3]
-### 4. 选择主题并发布
+### 选择主题并发布
 > 选择喜欢的主题，Publish page
 
 ![选择主题并发布][4]
-### 5. 访问你的GitHub Page吧
+### 访问你的GitHub Page吧
 > https://{GitHub账号名称}.github.io
 > 
 > 也许你觉得GitHub自带的主题不够酷炫，那么你可以使用[Hexo](http://hexo.io/)来丰富你的博客，现在开始吧！
